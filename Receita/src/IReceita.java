@@ -1,0 +1,6 @@
+
+interface IReceita {
+
+	String receita();
+	
+}
