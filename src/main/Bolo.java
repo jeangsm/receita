@@ -1,6 +1,6 @@
 package main;
 
-public class ReceitaBolo implements Receita {
+public class Bolo implements Receita {
 	
 	@Override
 	public String receita() {

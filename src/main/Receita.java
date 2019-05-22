@@ -1,6 +1,6 @@
 package main;
 
-interface Receita {
+public interface Receita {
 	String prato();
 	String receita();
 	

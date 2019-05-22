@@ -3,10 +3,10 @@ package main;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Cozinha {
+public class Cardapio {
 	private List<Receita> receitas;
 	
-	public Cozinha() {
+	public Cardapio() {
 		receitas = new ArrayList<>();
 	}
 	
