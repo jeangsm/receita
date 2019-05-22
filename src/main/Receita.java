@@ -1,7 +1,7 @@
 package main;
 
-interface IReceita {
-
+interface Receita {
+	String prato();
 	String receita();
 	
 }
