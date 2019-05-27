@@ -1,4 +1,4 @@
-package receita;
+package main;
 
 import static org.junit.Assert.*;
 
